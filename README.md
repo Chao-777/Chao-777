@@ -13,27 +13,47 @@ I enjoy building end-to-end applications — from UI to backend to deployment.
 
 - 💡 Passionate about solving real-world problems through software  
 - 🔧 Comfortable across frontend, backend, and cloud infrastructure  
-- 📈 Strong problem-solving mindset with hands-on project experience  
 - ☁️ Interested in **Cloud Engineering / DevOps roles**
+
+---
+
+## 📊 GitHub Stats
+
+![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chao-777&show_icons=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Chao-777)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chao-777&layout=compact)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
-`JavaScript` `TypeScript` `Python` `PHP` `C#` `HTML` `CSS`
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
+![C#](https://img.shields.io/badge/-CSharp-black?style=flat&logo=csharp)
 
-**Frameworks & Libraries**  
-`React` `Next.js` `Node.js` `Express` `Laravel` `.NET` `Bootstrap` `Tailwind`
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)
 
-**Cloud & DevOps**  
-`AWS (EC2, S3, IAM, DynamoDB)` `Docker` `Kubernetes` `Nginx` `CI/CD`
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx)
 
-**Databases**  
-`MySQL` `PostgreSQL` `MongoDB` `DynamoDB` `SQLite`
-
-**Tools & Practices**  
-`Git` `REST APIs` `MVC` `Agile/Scrum` `RBAC`
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-black?style=flat&logo=amazon-dynamodb)
 
 ---
 
@@ -44,7 +64,7 @@ I enjoy building end-to-end applications — from UI to backend to deployment.
 
 - Built a **role-based authentication system (RBAC)** using Node.js & MySQL  
 - Developed a **real-time booking engine** with conflict detection  
-- Created **6+ responsive UI pages** improving admin workflows  
+- Created **responsive UI pages** improving admin workflows  
 - Worked in Agile team with Git-based collaboration  
 
 ---
@@ -64,7 +84,7 @@ I enjoy building end-to-end applications — from UI to backend to deployment.
 ### 🧾 Serverless Receipt Processing System
 
 - Built with **AWS Lambda, S3, DynamoDB, SES (Python)**  
-- Fully serverless pipeline for **receipt extraction & notifications**  
+- Fully serverless pipeline for **receipt automation**  
 
 ---
 
@@ -72,29 +92,19 @@ I enjoy building end-to-end applications — from UI to backend to deployment.
 
 - React Native app for **drug pronunciation training**  
 - Custom **voice scoring algorithm (0–100 scale)**  
-- Features: authentication, leaderboard, real-time tracking  
-
----
-
-## 📜 Certifications
-
-- AWS Certified Solutions Architect – Associate  
-- AWS Certified Cloud Practitioner  
+- Authentication + leaderboard + real-time tracking  
 
 ---
 
 ## 📫 Contact Me
 
 - 📧 chaobusy@outlook.com  
-- 💼 [LinkedIn](https://linkedin.com/in/chao-yuan-nic777)  
-- 🌐 [Portfolio](http://chao-777.github.io/Chao-Portfolio)  
-- 💻 [GitHub](https://github.com/Chao-777)
+- 💼 https://linkedin.com/in/chao-yuan-nic777  
+- 🌐 http://chao-777.github.io/Chao-Portfolio  
 
 ---
 
 ## ⚡ What I'm Looking For
-
-I'm currently seeking opportunities in:
 
 - ☁️ Cloud Engineering / AWS Roles  
 - 💻 Full-Stack Development  
@@ -102,4 +112,4 @@ I'm currently seeking opportunities in:
 
 ---
 
-⭐️ *Always learning. Always building.*
+⭐️ Always learning. Always building.
