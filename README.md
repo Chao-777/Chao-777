@@ -13,7 +13,7 @@ I enjoy building end-to-end applications — from UI to backend to deployment.
 
 - 💡 Passionate about solving real-world problems through software  
 - 🔧 Comfortable across frontend, backend, and cloud infrastructure  
-- ☁️ Interested in **Cloud Engineering / DevOps roles**
+- ☁️ Interested in **Software Engineer / Cloud Engineer roles**
 
 ---
 
