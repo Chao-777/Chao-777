@@ -17,16 +17,6 @@ I enjoy building end-to-end applications — from UI to backend to deployment.
 
 ---
 
-## 📊 GitHub Stats
-
-![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chao-777&show_icons=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Chao-777)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chao-777&layout=compact)
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
